@@ -59,6 +59,9 @@ Unfortunately after completion of the analysis, it was learned that one school(T
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Size.png"></p>
  
  * **Scores by school type**
+   
+   Lastly the Report based on School Type is also unimpacted by this discrepancy! Thomas High is a Charter school, whose scores are the same before and after removing the incorrect 9th grade scores.
+   
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Type.png"></p>
     
 ## Summary
