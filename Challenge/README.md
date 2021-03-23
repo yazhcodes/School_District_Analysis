@@ -54,7 +54,7 @@ Unfortunately after completion of the analysis, it was learned that one school(T
  
  * **Scores by school size**
      
-     Similarly, there is no impact of the dishonest data when aggregating the scores based on School Size. Thomas High School falls under 1000-2000 category, and its scores have remained the same before and after cleaning up the data.
+     Similarly, there is no impact of the dishonest data on the Report based on School Size. Thomas High School is a Medium sized school, and the scores against this category have remained the same before and after cleaning up the data.
      
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Size.png"></p>
  
