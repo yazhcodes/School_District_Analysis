@@ -8,8 +8,9 @@ Unfortunately after completion of the analysis, it was learned that one school(T
 
 ## Results
 **1. Impact on District Summary**
-   <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/District%20Analysis%20(Before).png"></p>
-   <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/District%20Analysis%20(After).png"></p>
+
+   Cleaning up the student data by removing the dishonest scores has luckily had no impact on the Overall District Summary. The omition of a particular school's 9th grade scores were negligible, when scores from 15 schools were aggregated on District level. 
+   <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/District%20Analysis.png"></p>
 
 **2. Impact on Thomas High School Summary**
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Thomas%20High%20School%20Analysis%20(Before).png"></p>
