@@ -1,12 +1,11 @@
-# School District Analysis
-
-## Overview
+# Overview
 
 The purpose of this analysis is to aggregate the data and showcase trends in school performance. This analysis helps the School Board and Superintendent in making decisions regarding school budgets and prorities.
 
 Unfortunately after completion of the analysis, it was learned that one school(Thomas High) has been dishonest in submitting the 9th grade scores. This discrepancy has to led to a revaluation of the analysis and here's the findings.
 
-## Results
+# Results
+
 **1. Impact on District Summary**
 
    Cleaning up the student data by removing the dishonest scores has luckily had no impact on the Overall District Summary. The omition of a particular school's 9th grade scores were negligible, when scores from 15 schools were aggregated on District level. 
@@ -64,7 +63,7 @@ Unfortunately after completion of the analysis, it was learned that one school(T
    
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Type.png"></p>
     
-## Summary
+# Summary
 
 The major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are:
 
