@@ -13,7 +13,15 @@ Unfortunately after completion of the analysis, it was learned that one school(T
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/District%20Analysis.png"></p>
 
 **2. Impact on Thomas High School Summary**
+   
+   However when drilled down to school level, Thomas High School's Average Scores and Passing Percentages have take a minor dip after eliminating the dishonest entries.
+   
+   **Before Clean Up:**
+   
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Thomas%20High%20School%20Analysis%20(Before).png"></p>
+   
+   **After Clean Up:**
+   
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Thomas%20High%20School%20Analysis%20(After).png"></p>
 
 **3. Impact on Thomas High School's relative performance**
