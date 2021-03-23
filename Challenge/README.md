@@ -26,7 +26,7 @@ Unfortunately after completion of the analysis, it was learned that one school(T
 
 **3. Impact on Thomas High School's relative performance**
 
-   More good news for Thomas High School authorities! The school still is the *second best* in the District based on Passing Percentages just after Cabrera High school. 
+   More good news for Thomas High School authorities! The school is still the ***second best*** in the District based on Passing Percentages, just after Cabrera High school. 
    
    **Before Clean Up:**
    
@@ -36,16 +36,23 @@ Unfortunately after completion of the analysis, it was learned that one school(T
    
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/THS%20Performance%20Comparison%20(After).png"></p>
 
-**4. Other Impacts:**
-    * **Math and reading scores by grade**
-      <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/THS%20Grade%20wise%20Math%20Scores.png"></p>
-      <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/THS%20Grade%20wise%20Reading%20Scores.png"></p>
-    * **Scores by school spending**
-      <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Spending.png"></p>
-    * **Scores by school size**
-      <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Size.png"></p>
-    * **Scores by school type**
-      <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Type.png"></p>
+**4. Other Impacts:** 
+       
+ * **Math and reading scores by grade**
+     The scores of 9th graders in THS have been set to NaN (NULL). This gives us no scope to analyze this category of scores, but the scores of remaining grades (10th - 12th) remain intact and are available for analysis.
+     
+   **Math Scores:**
+   <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/THS%20Grade%20wise%20Math%20Scores.png" width=300></p>
+   
+   **Reading Scores Scores:**
+   <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/THS%20Grade%20wise%20Reading%20Scores.png" width=300></p>
+ 
+ * **Scores by school spending**
+   <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Spending.png"></p>
+ * **Scores by school size**
+   <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Size.png"></p>
+ * **Scores by school type**
+   <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Type.png"></p>
     
 ## Summary
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
