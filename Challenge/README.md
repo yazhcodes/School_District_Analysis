@@ -25,7 +25,15 @@ Unfortunately after completion of the analysis, it was learned that one school(T
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Thomas%20High%20School%20Analysis%20(After).png"></p>
 
 **3. Impact on Thomas High School's relative performance**
+
+   More good news for Thomas High School authorities! The school still is the *second best* in the District based on Passing Percentages just after Cabrera High school. 
+   
+   **Before Clean Up:**
+   
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/THS%20Performance%20Comparison%20(Before).png"></p>
+   
+   **After Clean Up:**
+   
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/THS%20Performance%20Comparison%20(After).png"></p>
 
 **4. Other Impacts:**
