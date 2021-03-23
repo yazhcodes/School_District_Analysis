@@ -68,7 +68,7 @@ Unfortunately after completion of the analysis, it was learned that one school(T
 
 The major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are:
 
-1. Thomas High School has seen a drop in Passing Percentage in the School Summary Analysis. The **Overall Passing Percentage** has dropped by _0.32%_ to _90.63%_.
-2. The **Average Reading Score** of Thomas High School in the School Summary Analysis has increased by _0.1%_ to reach _83.9%_.
+1. Thomas High School has seen a drop in Passing Percentage in the School Summary Analysis. The **Overall Passing Percentage** has _dropped_ by _0.32%_ to _90.63%_.
+2. The **Average Reading Score** of Thomas High School in the School Summary Analysis has _increased_ by _0.1%_ to reach _83.9%_.
 3. The Report of **Math Scores by Grade** shows an unmistakable _NaN_ for 9th Grade against Thomas High School.
 4. The Report of **Reading Scores by Grade** also shows a _NaN_ for 9th Grade against Thomas High School.
