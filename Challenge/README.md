@@ -51,8 +51,13 @@ Unfortunately after completion of the analysis, it was learned that one school(T
          
       The Average Per Capita Budget of Thomas High School is $638, which falls into the Budget Range $630-644. Upon comparing the outcomes of the range $630-644 before and after cleaning up the data, it is found that there is no impact of unclean data on this analysis.
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Spending.png"></p>
+ 
  * **Scores by school size**
+     
+     Similarly, there is no impact of the dishonest data when aggregating the scores based on School Size. Thomas High School falls under 1000-2000 category, and its scores have remained the same before and after cleaning up the data.
+     
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Size.png"></p>
+ 
  * **Scores by school type**
    <p><img src="https://github.com/yazhcodes/School_District_Analysis/blob/main/Challenge/Resources/Images/Scores%20by%20School%20Type.png"></p>
     
